@@ -10,7 +10,17 @@ docker container ps
 docker image pull
 
 docker run -it [image] bash // -i 交互 -t 赋予tty
+--rm  退出后自动删除container
 
 docker run -d -p 80:80 nginx  //-p 附加断开  -d 在后台 
 
 docker exec -it container bash  //进入现场运行中的容器
+
+删除
+docker rm containerID
+docker rmi imageID
+
+导出
+docker save hello-world:latest > myhelloworld.tgz
+导入
+docker image load -i /home/bb6/Desktop/myhelloworld.tgz
