@@ -1,9 +1,9 @@
 # Docker
 
-![image](https://user-images.githubusercontent.com/63569149/170413151-de78af1c-103b-4540-8d04-8ccb779cc26a.png)
+![image](https://user-images.githubusercontent.com/63569149/170415670-46f78cd9-b611-4535-b436-9b2353e9da75.png)
 
+![image](https://user-images.githubusercontent.com/63569149/170415740-2ade2dac-2c5a-4720-9441-97996965e6aa.png)
 
-![image](https://user-images.githubusercontent.com/63569149/170414357-f618f886-3b70-41d3-a72c-1a5a667e9541.png)
 
 docker image ls
 docker container ps
