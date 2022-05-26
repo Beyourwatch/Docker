@@ -24,3 +24,7 @@ docker rmi imageID
 docker save hello-world:latest > myhelloworld.tgz
 导入
 docker image load -i /home/bb6/Desktop/myhelloworld.tgz
+
+
+#网络不通
+![image](https://user-images.githubusercontent.com/63569149/170471274-6dd254fd-7077-4f9c-8dce-ec6b8f19586b.png)
